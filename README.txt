@@ -1,6 +1,6 @@
-# R-servation_billets_avions
+# Réservation_billets_avions
 Réservation billets avions  JAVA/SWING
-
+------------------------------------------------------------------------------------------------------------------------------------------
 Le but est de créer une application de réservation de billets d’avions en ligne pour une compagnie aérienne
 qui dispose de plusieurs avions d’autonomies et de capacités d’accueil différentes. Cette application sera
 divisée en deux parties : la réservation d’un ou plusieurs billets par un client et l’administration et la
@@ -38,8 +38,7 @@ obtenir, par trimestre ou par an, la liste des vols dont le taux d’occupation 
 moment de l’interrogation. On veut aussi pouvoir sortir des statistiques par client et par département
 d’origine du client.
 
-
-
+------------------------------------------------------------------------------------------------------------------------------------------
 
 Description du répertoire:
 
@@ -54,8 +53,10 @@ il existe des classes nommé bis par ex Trajetbis qui contiennent les attributs 
 dossier3:
 \ReservationBilletsAvion\src\Présentation 
 -Contient les différents classes d'intérface graphique ainsi que des classes de coloriage comme \ReservationBilletsAvion\src\Présentation\Pan3.java 
-qu'on a utilisé pour colorié un JPANEL à l'aide de l'outils Graphics component pour mettre en arriere plan une image
+qu'on a utilisé pour colorié un JPANEL à l'aide de l'outils Graphics component pour mettre en arriere plan une image.
 
+
+------------------------------------------------------------------------------------------------------------------------------------------
 
 Execution de l'application:
 
@@ -64,4 +65,4 @@ Execution de l'application:
 3. Verifier que tous les libreries externes sont chargé surtout le jar de la date Picker présent dans le répértoire :\ReservationBilletsAvion\src\Métier
 4. Executer l'application depuis la classe Main (Classe Princiaple)
 
-Pour plus d'informations voir le rapport PDF et la présentation PPT
+===> Pour plus d'informations voir le rapport PDF et la présentation PPT
