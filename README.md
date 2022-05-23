@@ -13,3 +13,5 @@ capable d’interagir avec l’environnement de façon autonome, de prendre des
 initiatives et de garantir le bien-être et la quiétude exigée par l’utilisateur, de 
 plus cette application contient un espace administrateur pour combiner et bien 
 gérer la base de données
+
+Pour plus d'informations voir le rapport PDF et la présentation PPT
